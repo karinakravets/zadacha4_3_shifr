@@ -1,5 +1,3 @@
-import kotlin.random.Random
-
 val alphabet = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ"
 
 fun main() {
